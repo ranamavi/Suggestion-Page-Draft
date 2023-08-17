@@ -33,7 +33,7 @@ struct ContentView: View {
                                 .foregroundColor(Color.white)
                                 .padding()
                             
-                            Text("The Feynman Technique is based on explaining something you learned as if you were explaining it to a child. Firstly you should Choose a topic. Then teach it to a child (or pretend that you are). Then review and refine your understanding. And lastly organize the notes and review them.")
+                            Text("The Feynman Technique is that you learn something by explaining it in a way that you would do to a child. Firstly you should Choose a topic. Then teach it to a child (or pretend that you are). Then review and refine your understanding. And lastly organize the notes and review them.")
                                 .fontWeight(.medium)
                                 .foregroundColor(Color.white)
                                 .multilineTextAlignment(.center)

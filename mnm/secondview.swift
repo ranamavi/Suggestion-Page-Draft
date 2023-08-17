@@ -14,7 +14,7 @@ struct secondview: View {
                 .ignoresSafeArea()
             
             RoundedRectangle(cornerRadius: 30)
-                .frame(width: 365, height: 750)
+                .frame(width: 365, height: 720)
             
             VStack{
                 
