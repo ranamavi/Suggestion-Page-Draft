@@ -64,12 +64,12 @@ struct ContentView: View {
                              .frame(width: 360, height: 270)
                         
                         VStack{
-                            Text("Who should use the Feynman Technique?")
+                            Text("Who should use the Feynman Technique?") //change title
                                 .font(.title)
                                 .fontWeight(.bold)
                                 .foregroundColor(Color.white)
                             
-                            Text("If you want a deep understanding of something you should use Feynman. And if you’re not able to work on quite place (like on a trip or on a picnic) you can use the Feynman Technique.")
+                            Text("If you want a deep understanding of something you should use Feynman. And if you’re not able to work on quite place (like on a trip or on a picnic) you can use the Feynman Technique.") //change description
                                 .fontWeight(.medium)
                                 .foregroundColor(Color.white)
                                 .multilineTextAlignment(.center)
