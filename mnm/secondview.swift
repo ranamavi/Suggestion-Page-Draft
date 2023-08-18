@@ -42,7 +42,7 @@ struct secondview: View {
             }.padding()
 
             
-        }//en of zstack for color
+        }//end of zstack for color
         
     }
 }
